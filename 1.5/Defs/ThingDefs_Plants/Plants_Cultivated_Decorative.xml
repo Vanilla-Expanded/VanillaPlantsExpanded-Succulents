@@ -28,7 +28,7 @@
       <growMinGlow>0.2</growMinGlow>
       <topWindExposure>0.05</topWindExposure>
       <growDays>3</growDays>
-      <lifespanDaysPerGrowDays>8</lifespanDaysPerGrowDays>
+      <lifespanDaysPerGrowDays>12</lifespanDaysPerGrowDays>
       <visualSizeRange>0.3~1.05</visualSizeRange>
       <wildOrder>1</wildOrder>
       <purpose>Beauty</purpose>
@@ -67,7 +67,7 @@
       <growMinGlow>0.2</growMinGlow>
       <topWindExposure>0.05</topWindExposure>
       <growDays>3</growDays>
-      <lifespanDaysPerGrowDays>8</lifespanDaysPerGrowDays>
+      <lifespanDaysPerGrowDays>12</lifespanDaysPerGrowDays>
       <visualSizeRange>0.3~1.05</visualSizeRange>
       <wildOrder>1</wildOrder>
       <purpose>Beauty</purpose>
@@ -106,7 +106,7 @@
       <growMinGlow>0.2</growMinGlow>
       <topWindExposure>0.05</topWindExposure>
       <growDays>3</growDays>
-      <lifespanDaysPerGrowDays>8</lifespanDaysPerGrowDays>
+      <lifespanDaysPerGrowDays>12</lifespanDaysPerGrowDays>
       <visualSizeRange>0.3~1.05</visualSizeRange>
       <wildOrder>1</wildOrder>
       <purpose>Beauty</purpose>
@@ -145,7 +145,7 @@
       <growMinGlow>0.2</growMinGlow>
       <topWindExposure>0.05</topWindExposure>
       <growDays>3</growDays>
-      <lifespanDaysPerGrowDays>8</lifespanDaysPerGrowDays>
+      <lifespanDaysPerGrowDays>12</lifespanDaysPerGrowDays>
       <visualSizeRange>0.3~1.05</visualSizeRange>
       <wildOrder>1</wildOrder>
       <purpose>Beauty</purpose>
@@ -184,7 +184,7 @@
       <growMinGlow>0.2</growMinGlow>
       <topWindExposure>0.05</topWindExposure>
       <growDays>3</growDays>
-      <lifespanDaysPerGrowDays>8</lifespanDaysPerGrowDays>
+      <lifespanDaysPerGrowDays>12</lifespanDaysPerGrowDays>
       <visualSizeRange>0.3~1.05</visualSizeRange>
       <wildOrder>1</wildOrder>
       <purpose>Beauty</purpose>
@@ -223,7 +223,7 @@
       <growMinGlow>0.2</growMinGlow>
       <topWindExposure>0.05</topWindExposure>
       <growDays>3</growDays>
-      <lifespanDaysPerGrowDays>8</lifespanDaysPerGrowDays>
+      <lifespanDaysPerGrowDays>12</lifespanDaysPerGrowDays>
       <visualSizeRange>0.3~1.05</visualSizeRange>
       <wildOrder>1</wildOrder>
       <purpose>Beauty</purpose>
@@ -262,7 +262,7 @@
       <growMinGlow>0.2</growMinGlow>
       <topWindExposure>0.05</topWindExposure>
       <growDays>3</growDays>
-      <lifespanDaysPerGrowDays>8</lifespanDaysPerGrowDays>
+      <lifespanDaysPerGrowDays>12</lifespanDaysPerGrowDays>
       <visualSizeRange>0.3~1.05</visualSizeRange>
       <wildOrder>1</wildOrder>
       <purpose>Beauty</purpose>
@@ -301,7 +301,7 @@
       <growMinGlow>0.2</growMinGlow>
       <topWindExposure>0.05</topWindExposure>
       <growDays>3</growDays>
-      <lifespanDaysPerGrowDays>8</lifespanDaysPerGrowDays>
+      <lifespanDaysPerGrowDays>12</lifespanDaysPerGrowDays>
       <visualSizeRange>0.3~1.05</visualSizeRange>
       <wildOrder>1</wildOrder>
       <purpose>Beauty</purpose>
@@ -340,7 +340,7 @@
       <growMinGlow>0.2</growMinGlow>
       <topWindExposure>0.05</topWindExposure>
       <growDays>3</growDays>
-      <lifespanDaysPerGrowDays>8</lifespanDaysPerGrowDays>
+      <lifespanDaysPerGrowDays>12</lifespanDaysPerGrowDays>
       <visualSizeRange>0.3~1.55</visualSizeRange>
       <wildOrder>1</wildOrder>
       <purpose>Beauty</purpose>
@@ -379,7 +379,7 @@
       <growMinGlow>0.2</growMinGlow>
       <topWindExposure>0.05</topWindExposure>
       <growDays>3</growDays>
-      <lifespanDaysPerGrowDays>8</lifespanDaysPerGrowDays>
+      <lifespanDaysPerGrowDays>12</lifespanDaysPerGrowDays>
       <visualSizeRange>0.3~1.05</visualSizeRange>
       <wildOrder>1</wildOrder>
       <purpose>Beauty</purpose>
